@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fatih UNAL
-- 👀 I’m interested in .NET Development and trying to develop my DevOps skills.
+- 👀 I’m experienced Software Engineer and trying to develop my DevOps skills.
 - 🌱 I’m currently learning Docker, Kubernetes, CI/CD,  AWS , Azure 
 - 💞️ I’m looking to collaborate on open source projects commitments.
 - 📫 Reach me by this form: https://wkf.ms/3GJGPXh 
